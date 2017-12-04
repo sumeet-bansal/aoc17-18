@@ -1,2 +1,9 @@
-# Advent of Code 2017
-My personal solutions.
+## Advent of Code 2017
+
+*For other uses, see [Atrocity Exhibition (disambiguation)](https://en.wikipedia.org/wiki/Atrocity_Exhibition).*
+
+*"From the Ground" redirects here. For Hollywood Undead song, see [Notes from the Underground (Hollywood Undead album)](https://en.wikipedia.org/wiki/Notes_from_the_Underground_(Hollywood_Undead_album)).*
+
+*__Atrocity Exhibition__* is the fourth [studio album](https://en.wikipedia.org/wiki/Album) by American rapper [Danny Brown](https://en.wikipedia.org/wiki/Danny_Brown). It was released on September 27, 2016,<sup>[[1]](https://en.wikipedia.org/wiki/Atrocity_Exhibition_(album)#cite_note-pitchfork2-1)</sup> by [Warp Records](https://en.wikipedia.org/wiki/Warp_(record_label)). It is primarily produced by British producer [Paul White](https://en.wikipedia.org/wiki/Paul_White_(record_producer)).<sup>[[2]](https://en.wikipedia.org/wiki/Atrocity_Exhibition_(album)#cite_note-2)</sup> The album features [guest appearances](https://en.wikipedia.org/wiki/Guest_appearance) from [Kendrick Lamar](https://en.wikipedia.org/wiki/Kendrick_Lamar), [Ab-Soul](https://en.wikipedia.org/wiki/Ab-Soul), [Earl Sweatshirt](https://en.wikipedia.org/wiki/Earl_Sweatshirt), [B-Real](https://en.wikipedia.org/wiki/B-Real), [Kelela](https://en.wikipedia.org/wiki/Kelela) and [Petite Noir](https://en.wikipedia.org/wiki/Petite_Noir).
+
+The album was supported by three [singles](https://en.wikipedia.org/wiki/Single_(music)): ["When It Rain"](https://en.wikipedia.org/wiki/When_It_Rain), "Pneumonia" and ["Really Doe"](https://en.wikipedia.org/wiki/Really_Doe_(Danny_Brown_song)). *Atrocity Exhibition* received widespread acclaim from critics, appearing on the year-end lists of many publications. The album charted at number 77 on the US [*Billboard 200*](https://en.wikipedia.org/wiki/Billboard_200).
