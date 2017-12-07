@@ -1,5 +1,5 @@
 # takes input spreadsheet as tuple of tuples
-with open("Day2-input.txt", "r") as file:
+with open('input.txt', 'r') as file:
 	spreadsheet = tuple([tuple(map(int, line.split('\t'))) for line in file.readlines()])
 
 # first half

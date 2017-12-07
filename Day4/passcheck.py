@@ -1,5 +1,5 @@
 # takes input list of phrases as list of lists
-with open("input.txt", "r") as file:
+with open('input.txt', 'r') as file:
 	passphrases = [line.rstrip('\n').split(' ') for line in file.readlines()]
 
 # first half
