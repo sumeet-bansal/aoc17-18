@@ -19,8 +19,6 @@ for i in range(40000000):
 print("judge's final count without generator criteria:\t%d" % matches)
 
 # second half
-genB = int(sys.argv[2])
-
 def generateA():
 	genA = int(sys.argv[1])
 	while True:
