@@ -1,4 +1,4 @@
-## Advent of Code 2017
+## Advent of Code 2017-2018
 
 *For other uses, see [Atrocity Exhibition (disambiguation)](https://en.wikipedia.org/wiki/Atrocity_Exhibition).*
 
